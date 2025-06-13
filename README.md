@@ -1,6 +1,6 @@
 # Avaliação da Eficácia de Aplicativos Móveis no Ensino de Algoritmos
 
-![Preview do Site](https://vitortcc.github.io/preview.jpg) *(adicione depois um screenshot)*
+![Preview do Site](https://https://prolweb.github.io/preview.jpg) *(adicionarei depois alguns screenshots)*
 
 ## 📌 Sobre o Projeto
 Análise interativa da usabilidade e eficácia pedagógica de aplicativos móveis para ensino de algoritmos, com foco em iniciantes em programação. Desenvolvido como parte do meu TCC POS-Especialização em Docência.
@@ -29,7 +29,7 @@ Análise interativa da usabilidade e eficácia pedagógica de aplicativos móvei
 
 ## 🚀 Como Executar
 1. Acesse online:  
-   [https://prolweb/tcc-genilson-ifms.io](https://prolweb/tcc-genilson-ifms.io)
+   [https://prolweb.github.io/](https://prolweb.github.io/)
 
 2. Localmente:
    ```bash
